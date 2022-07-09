@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Bern, 
+
+- 👋 #Hi, I’m @Bern, 
 - 👀 I’m interested in new technologies and how does it work.
 - 🌱 I’m currently learning python and web development 
 - 💞️ I’m looking to collaborate for any system that I can contribute and bring value 
