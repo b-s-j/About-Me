@@ -1,7 +1,7 @@
 
 - 👋 #Hi, I’m @Bern, 
 - 👀 I’m interested in new technologies and how does it work.
-- 🌱 I’m currently learning python and web development 
+- 🌱 I’m currently learning dotnet core framework, javascript
 - 💞️ I’m looking to collaborate for any system that I can contribute and bring value 
 - 📫 How to reach me you can use paul25bern@gmail.com
 
